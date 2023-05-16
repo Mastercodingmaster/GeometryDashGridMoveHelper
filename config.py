@@ -1,1 +1,4 @@
-GithubId = 677865
+ShowConsoleLog = False
+Console = False
+Mods = True
+AppId = "GeometryDashGridMoveHelper"
